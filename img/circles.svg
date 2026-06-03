@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" version="1.1" viewBox="0 0 610 610">
+<defs/>
+<g id="layer1">
+<path stroke="#000000" stroke-width="4.57214" d="M445.3+144.247L445.3+144.247C533.666+144.247+605.3+215.036+605.3+302.359L605.3+306.135C605.3+393.457+533.666+464.247+445.3+464.247L445.3+464.247C356.934+464.247+285.3+393.457+285.3+306.135L285.3+302.359C285.3+215.036+356.934+144.247+445.3+144.247Z" fill="#2244dd" stroke-linecap="butt" opacity="0.402278" stroke-linejoin="miter"/>
+<path stroke="#000000" stroke-width="4.57214" d="M165+144.247L165+144.247C253.366+144.247+325+215.036+325+302.359L325+306.135C325+393.457+253.366+464.247+165+464.247L165+464.247C76.6344+464.247+5+393.457+5+306.135L5+302.359C5+215.036+76.6344+144.247+165+144.247Z" fill="#0044dd" stroke-linecap="butt" opacity="0.400419" stroke-linejoin="miter"/>
+<path stroke="#000000" stroke-width="4.57214" d="M300.302+6L300.302+6C388.668+6+460.302+76.7892+460.302+164.112L460.302+167.888C460.302+255.211+388.668+326+300.302+326L300.302+326C211.936+326+140.302+255.211+140.302+167.888L140.302+164.112C140.302+76.7892+211.936+6+300.302+6Z" fill="#0044dd" stroke-linecap="butt" opacity="0.396608" stroke-linejoin="miter"/>
+<path stroke="#000000" stroke-width="4.57214" d="M310+278.527L310+278.527C398.366+278.527+470+349.316+470+436.639L470+440.415C470+527.738+398.366+598.527+310+598.527L310+598.527C221.634+598.527+150+527.738+150+440.415L150+436.639C150+349.316+221.634+278.527+310+278.527Z" fill="#0044dd" stroke-linecap="butt" opacity="0.399132" stroke-linejoin="miter"/>
+</g>
+</svg>
